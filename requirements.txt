@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+pytest>=7.0
+gseapy>=1.1   # only needed for step 9 when using Enrichr library names (internet required)

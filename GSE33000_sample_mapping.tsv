@@ -1,0 +1,625 @@
+geo_accession	expression_sample_id	disease_status
+GSM1423780	PFC_1	disease status: Alzheimer's disease
+GSM1423781	PFC_2	disease status: Alzheimer's disease
+GSM1423782	PFC_3	disease status: Alzheimer's disease
+GSM1423783	PFC_4	disease status: Alzheimer's disease
+GSM1423784	PFC_5	disease status: Alzheimer's disease
+GSM1423785	PFC_6	disease status: Alzheimer's disease
+GSM1423786	PFC_7	disease status: Alzheimer's disease
+GSM1423787	PFC_8	disease status: Alzheimer's disease
+GSM1423788	PFC_9	disease status: Alzheimer's disease
+GSM1423789	PFC_10	disease status: Alzheimer's disease
+GSM1423790	PFC_11	disease status: Alzheimer's disease
+GSM1423791	PFC_12	disease status: Alzheimer's disease
+GSM1423792	PFC_13	disease status: Alzheimer's disease
+GSM1423793	PFC_14	disease status: Alzheimer's disease
+GSM1423794	PFC_15	disease status: Alzheimer's disease
+GSM1423795	PFC_16	disease status: Alzheimer's disease
+GSM1423796	PFC_17	disease status: Alzheimer's disease
+GSM1423797	PFC_18	disease status: Alzheimer's disease
+GSM1423798	PFC_19	disease status: Alzheimer's disease
+GSM1423799	PFC_20	disease status: Alzheimer's disease
+GSM1423800	PFC_21	disease status: Alzheimer's disease
+GSM1423801	PFC_22	disease status: Alzheimer's disease
+GSM1423802	PFC_23	disease status: Alzheimer's disease
+GSM1423803	PFC_24	disease status: Alzheimer's disease
+GSM1423804	PFC_25	disease status: Alzheimer's disease
+GSM1423805	PFC_26	disease status: Alzheimer's disease
+GSM1423806	PFC_27	disease status: Alzheimer's disease
+GSM1423807	PFC_28	disease status: Alzheimer's disease
+GSM1423808	PFC_29	disease status: Alzheimer's disease
+GSM1423809	PFC_30	disease status: Alzheimer's disease
+GSM1423810	PFC_31	disease status: Alzheimer's disease
+GSM1423811	PFC_32	disease status: Alzheimer's disease
+GSM1423812	PFC_33	disease status: Alzheimer's disease
+GSM1423813	PFC_34	disease status: Alzheimer's disease
+GSM1423814	PFC_35	disease status: Alzheimer's disease
+GSM1423815	PFC_36	disease status: Alzheimer's disease
+GSM1423816	PFC_37	disease status: Alzheimer's disease
+GSM1423817	PFC_38	disease status: Alzheimer's disease
+GSM1423818	PFC_39	disease status: Alzheimer's disease
+GSM1423819	PFC_40	disease status: Alzheimer's disease
+GSM1423820	PFC_41	disease status: Alzheimer's disease
+GSM1423821	PFC_42	disease status: Alzheimer's disease
+GSM1423822	PFC_43	disease status: Alzheimer's disease
+GSM1423823	PFC_44	disease status: Alzheimer's disease
+GSM1423824	PFC_45	disease status: Alzheimer's disease
+GSM1423825	PFC_46	disease status: Alzheimer's disease
+GSM1423826	PFC_47	disease status: Alzheimer's disease
+GSM1423827	PFC_48	disease status: Alzheimer's disease
+GSM1423828	PFC_49	disease status: Alzheimer's disease
+GSM1423829	PFC_50	disease status: Alzheimer's disease
+GSM1423830	PFC_51	disease status: Alzheimer's disease
+GSM1423831	PFC_52	disease status: Alzheimer's disease
+GSM1423832	PFC_53	disease status: Alzheimer's disease
+GSM1423833	PFC_54	disease status: Alzheimer's disease
+GSM1423834	PFC_55	disease status: Alzheimer's disease
+GSM1423835	PFC_56	disease status: Alzheimer's disease
+GSM1423836	PFC_57	disease status: Alzheimer's disease
+GSM1423837	PFC_58	disease status: Alzheimer's disease
+GSM1423838	PFC_59	disease status: Alzheimer's disease
+GSM1423839	PFC_60	disease status: Alzheimer's disease
+GSM1423840	PFC_61	disease status: Alzheimer's disease
+GSM1423841	PFC_62	disease status: Alzheimer's disease
+GSM1423842	PFC_63	disease status: Alzheimer's disease
+GSM1423843	PFC_64	disease status: Alzheimer's disease
+GSM1423844	PFC_65	disease status: Alzheimer's disease
+GSM1423845	PFC_66	disease status: Alzheimer's disease
+GSM1423846	PFC_67	disease status: Alzheimer's disease
+GSM1423847	PFC_68	disease status: Alzheimer's disease
+GSM1423848	PFC_69	disease status: Alzheimer's disease
+GSM1423849	PFC_70	disease status: Alzheimer's disease
+GSM1423850	PFC_71	disease status: Alzheimer's disease
+GSM1423851	PFC_72	disease status: Alzheimer's disease
+GSM1423852	PFC_73	disease status: Alzheimer's disease
+GSM1423853	PFC_74	disease status: Alzheimer's disease
+GSM1423854	PFC_75	disease status: Alzheimer's disease
+GSM1423855	PFC_76	disease status: Alzheimer's disease
+GSM1423856	PFC_77	disease status: Alzheimer's disease
+GSM1423857	PFC_78	disease status: Alzheimer's disease
+GSM1423858	PFC_79	disease status: Alzheimer's disease
+GSM1423859	PFC_80	disease status: Alzheimer's disease
+GSM1423860	PFC_81	disease status: Alzheimer's disease
+GSM1423861	PFC_82	disease status: Alzheimer's disease
+GSM1423862	PFC_83	disease status: Alzheimer's disease
+GSM1423863	PFC_84	disease status: Alzheimer's disease
+GSM1423864	PFC_85	disease status: Alzheimer's disease
+GSM1423865	PFC_86	disease status: Alzheimer's disease
+GSM1423866	PFC_87	disease status: Alzheimer's disease
+GSM1423867	PFC_88	disease status: Alzheimer's disease
+GSM1423868	PFC_89	disease status: Alzheimer's disease
+GSM1423869	PFC_90	disease status: Alzheimer's disease
+GSM1423870	PFC_91	disease status: Alzheimer's disease
+GSM1423871	PFC_92	disease status: Alzheimer's disease
+GSM1423872	PFC_93	disease status: Alzheimer's disease
+GSM1423873	PFC_94	disease status: Alzheimer's disease
+GSM1423874	PFC_95	disease status: Alzheimer's disease
+GSM1423875	PFC_96	disease status: Alzheimer's disease
+GSM1423876	PFC_97	disease status: Alzheimer's disease
+GSM1423877	PFC_98	disease status: Alzheimer's disease
+GSM1423878	PFC_99	disease status: Alzheimer's disease
+GSM1423879	PFC_100	disease status: Alzheimer's disease
+GSM1423880	PFC_101	disease status: Alzheimer's disease
+GSM1423881	PFC_102	disease status: Alzheimer's disease
+GSM1423882	PFC_103	disease status: Alzheimer's disease
+GSM1423883	PFC_104	disease status: Alzheimer's disease
+GSM1423884	PFC_105	disease status: Alzheimer's disease
+GSM1423885	PFC_106	disease status: Alzheimer's disease
+GSM1423886	PFC_107	disease status: Alzheimer's disease
+GSM1423887	PFC_108	disease status: Alzheimer's disease
+GSM1423888	PFC_109	disease status: Alzheimer's disease
+GSM1423889	PFC_110	disease status: Alzheimer's disease
+GSM1423890	PFC_111	disease status: Alzheimer's disease
+GSM1423891	PFC_112	disease status: Alzheimer's disease
+GSM1423892	PFC_113	disease status: Alzheimer's disease
+GSM1423893	PFC_114	disease status: Alzheimer's disease
+GSM1423894	PFC_115	disease status: Alzheimer's disease
+GSM1423895	PFC_116	disease status: Alzheimer's disease
+GSM1423896	PFC_117	disease status: Alzheimer's disease
+GSM1423897	PFC_118	disease status: Alzheimer's disease
+GSM1423898	PFC_119	disease status: Alzheimer's disease
+GSM1423899	PFC_120	disease status: Alzheimer's disease
+GSM1423900	PFC_121	disease status: Alzheimer's disease
+GSM1423901	PFC_122	disease status: Alzheimer's disease
+GSM1423902	PFC_123	disease status: Alzheimer's disease
+GSM1423903	PFC_124	disease status: Alzheimer's disease
+GSM1423904	PFC_125	disease status: Alzheimer's disease
+GSM1423905	PFC_126	disease status: Alzheimer's disease
+GSM1423906	PFC_127	disease status: Alzheimer's disease
+GSM1423907	PFC_128	disease status: Alzheimer's disease
+GSM1423908	PFC_129	disease status: Alzheimer's disease
+GSM1423909	PFC_130	disease status: Alzheimer's disease
+GSM1423910	PFC_131	disease status: Alzheimer's disease
+GSM1423911	PFC_132	disease status: Alzheimer's disease
+GSM1423912	PFC_133	disease status: Alzheimer's disease
+GSM1423913	PFC_134	disease status: Alzheimer's disease
+GSM1423914	PFC_135	disease status: Alzheimer's disease
+GSM1423915	PFC_136	disease status: Alzheimer's disease
+GSM1423916	PFC_137	disease status: Alzheimer's disease
+GSM1423917	PFC_138	disease status: Alzheimer's disease
+GSM1423918	PFC_139	disease status: Alzheimer's disease
+GSM1423919	PFC_140	disease status: Alzheimer's disease
+GSM1423920	PFC_141	disease status: Alzheimer's disease
+GSM1423921	PFC_142	disease status: Alzheimer's disease
+GSM1423922	PFC_143	disease status: Alzheimer's disease
+GSM1423923	PFC_144	disease status: Alzheimer's disease
+GSM1423924	PFC_145	disease status: Alzheimer's disease
+GSM1423925	PFC_146	disease status: Alzheimer's disease
+GSM1423926	PFC_147	disease status: Alzheimer's disease
+GSM1423927	PFC_148	disease status: Alzheimer's disease
+GSM1423928	PFC_149	disease status: Alzheimer's disease
+GSM1423929	PFC_150	disease status: Alzheimer's disease
+GSM1423930	PFC_151	disease status: Alzheimer's disease
+GSM1423931	PFC_152	disease status: Alzheimer's disease
+GSM1423932	PFC_153	disease status: Alzheimer's disease
+GSM1423933	PFC_154	disease status: Alzheimer's disease
+GSM1423934	PFC_155	disease status: Alzheimer's disease
+GSM1423935	PFC_156	disease status: Alzheimer's disease
+GSM1423936	PFC_157	disease status: Alzheimer's disease
+GSM1423937	PFC_158	disease status: Alzheimer's disease
+GSM1423938	PFC_159	disease status: Alzheimer's disease
+GSM1423939	PFC_160	disease status: Alzheimer's disease
+GSM1423940	PFC_161	disease status: Alzheimer's disease
+GSM1423941	PFC_162	disease status: Alzheimer's disease
+GSM1423942	PFC_163	disease status: Alzheimer's disease
+GSM1423943	PFC_164	disease status: Alzheimer's disease
+GSM1423944	PFC_165	disease status: Alzheimer's disease
+GSM1423945	PFC_166	disease status: Alzheimer's disease
+GSM1423946	PFC_167	disease status: Alzheimer's disease
+GSM1423947	PFC_168	disease status: Alzheimer's disease
+GSM1423948	PFC_169	disease status: Alzheimer's disease
+GSM1423949	PFC_170	disease status: Alzheimer's disease
+GSM1423950	PFC_171	disease status: Alzheimer's disease
+GSM1423951	PFC_172	disease status: Alzheimer's disease
+GSM1423952	PFC_173	disease status: Alzheimer's disease
+GSM1423953	PFC_174	disease status: Alzheimer's disease
+GSM1423954	PFC_175	disease status: Alzheimer's disease
+GSM1423955	PFC_176	disease status: Alzheimer's disease
+GSM1423956	PFC_177	disease status: Alzheimer's disease
+GSM1423957	PFC_178	disease status: Alzheimer's disease
+GSM1423958	PFC_179	disease status: Alzheimer's disease
+GSM1423959	PFC_180	disease status: Alzheimer's disease
+GSM1423960	PFC_181	disease status: Alzheimer's disease
+GSM1423961	PFC_182	disease status: Alzheimer's disease
+GSM1423962	PFC_183	disease status: Alzheimer's disease
+GSM1423963	PFC_184	disease status: Alzheimer's disease
+GSM1423964	PFC_185	disease status: Alzheimer's disease
+GSM1423965	PFC_186	disease status: Alzheimer's disease
+GSM1423966	PFC_187	disease status: Alzheimer's disease
+GSM1423967	PFC_188	disease status: Alzheimer's disease
+GSM1423968	PFC_189	disease status: Alzheimer's disease
+GSM1423969	PFC_190	disease status: Alzheimer's disease
+GSM1423970	PFC_191	disease status: Alzheimer's disease
+GSM1423971	PFC_192	disease status: Alzheimer's disease
+GSM1423972	PFC_193	disease status: Alzheimer's disease
+GSM1423973	PFC_194	disease status: Alzheimer's disease
+GSM1423974	PFC_195	disease status: Alzheimer's disease
+GSM1423975	PFC_196	disease status: Alzheimer's disease
+GSM1423976	PFC_197	disease status: Alzheimer's disease
+GSM1423977	PFC_198	disease status: Alzheimer's disease
+GSM1423978	PFC_199	disease status: Alzheimer's disease
+GSM1423979	PFC_200	disease status: Alzheimer's disease
+GSM1423980	PFC_201	disease status: Alzheimer's disease
+GSM1423981	PFC_202	disease status: Alzheimer's disease
+GSM1423982	PFC_203	disease status: Alzheimer's disease
+GSM1423983	PFC_204	disease status: Alzheimer's disease
+GSM1423984	PFC_205	disease status: Alzheimer's disease
+GSM1423985	PFC_206	disease status: Alzheimer's disease
+GSM1423986	PFC_207	disease status: Alzheimer's disease
+GSM1423987	PFC_208	disease status: Alzheimer's disease
+GSM1423988	PFC_209	disease status: Alzheimer's disease
+GSM1423989	PFC_210	disease status: Alzheimer's disease
+GSM1423990	PFC_211	disease status: Alzheimer's disease
+GSM1423991	PFC_212	disease status: Alzheimer's disease
+GSM1423992	PFC_213	disease status: Alzheimer's disease
+GSM1423993	PFC_214	disease status: Alzheimer's disease
+GSM1423994	PFC_215	disease status: Alzheimer's disease
+GSM1423995	PFC_216	disease status: Alzheimer's disease
+GSM1423996	PFC_217	disease status: Alzheimer's disease
+GSM1423997	PFC_218	disease status: Alzheimer's disease
+GSM1423998	PFC_219	disease status: Alzheimer's disease
+GSM1423999	PFC_220	disease status: Alzheimer's disease
+GSM1424000	PFC_221	disease status: Alzheimer's disease
+GSM1424001	PFC_222	disease status: Alzheimer's disease
+GSM1424002	PFC_223	disease status: Alzheimer's disease
+GSM1424003	PFC_224	disease status: Alzheimer's disease
+GSM1424004	PFC_225	disease status: Alzheimer's disease
+GSM1424005	PFC_226	disease status: Alzheimer's disease
+GSM1424006	PFC_227	disease status: Alzheimer's disease
+GSM1424007	PFC_228	disease status: Alzheimer's disease
+GSM1424008	PFC_229	disease status: Alzheimer's disease
+GSM1424009	PFC_230	disease status: Alzheimer's disease
+GSM1424010	PFC_231	disease status: Alzheimer's disease
+GSM1424011	PFC_232	disease status: Alzheimer's disease
+GSM1424012	PFC_233	disease status: Alzheimer's disease
+GSM1424013	PFC_234	disease status: Alzheimer's disease
+GSM1424014	PFC_235	disease status: Alzheimer's disease
+GSM1424015	PFC_236	disease status: Alzheimer's disease
+GSM1424016	PFC_237	disease status: Alzheimer's disease
+GSM1424017	PFC_238	disease status: Alzheimer's disease
+GSM1424018	PFC_239	disease status: Alzheimer's disease
+GSM1424019	PFC_240	disease status: Alzheimer's disease
+GSM1424020	PFC_241	disease status: Alzheimer's disease
+GSM1424021	PFC_242	disease status: Alzheimer's disease
+GSM1424022	PFC_243	disease status: Alzheimer's disease
+GSM1424023	PFC_244	disease status: Alzheimer's disease
+GSM1424024	PFC_245	disease status: Alzheimer's disease
+GSM1424025	PFC_246	disease status: Alzheimer's disease
+GSM1424026	PFC_247	disease status: Alzheimer's disease
+GSM1424027	PFC_248	disease status: Alzheimer's disease
+GSM1424028	PFC_249	disease status: Alzheimer's disease
+GSM1424029	PFC_250	disease status: Alzheimer's disease
+GSM1424030	PFC_251	disease status: Alzheimer's disease
+GSM1424031	PFC_252	disease status: Alzheimer's disease
+GSM1424032	PFC_253	disease status: Alzheimer's disease
+GSM1424033	PFC_254	disease status: Alzheimer's disease
+GSM1424034	PFC_255	disease status: Alzheimer's disease
+GSM1424035	PFC_256	disease status: Alzheimer's disease
+GSM1424036	PFC_257	disease status: Alzheimer's disease
+GSM1424037	PFC_258	disease status: Alzheimer's disease
+GSM1424038	PFC_259	disease status: Alzheimer's disease
+GSM1424039	PFC_260	disease status: Alzheimer's disease
+GSM1424040	PFC_261	disease status: Alzheimer's disease
+GSM1424041	PFC_262	disease status: Alzheimer's disease
+GSM1424042	PFC_263	disease status: Alzheimer's disease
+GSM1424043	PFC_264	disease status: Alzheimer's disease
+GSM1424044	PFC_265	disease status: Alzheimer's disease
+GSM1424045	PFC_266	disease status: Alzheimer's disease
+GSM1424046	PFC_267	disease status: Alzheimer's disease
+GSM1424047	PFC_268	disease status: Alzheimer's disease
+GSM1424048	PFC_269	disease status: Alzheimer's disease
+GSM1424049	PFC_270	disease status: Alzheimer's disease
+GSM1424050	PFC_271	disease status: Alzheimer's disease
+GSM1424051	PFC_272	disease status: Alzheimer's disease
+GSM1424052	PFC_273	disease status: Alzheimer's disease
+GSM1424053	PFC_274	disease status: Alzheimer's disease
+GSM1424054	PFC_275	disease status: Alzheimer's disease
+GSM1424055	PFC_276	disease status: Alzheimer's disease
+GSM1424056	PFC_277	disease status: Alzheimer's disease
+GSM1424057	PFC_278	disease status: Alzheimer's disease
+GSM1424058	PFC_279	disease status: Alzheimer's disease
+GSM1424059	PFC_280	disease status: Alzheimer's disease
+GSM1424060	PFC_281	disease status: Alzheimer's disease
+GSM1424061	PFC_282	disease status: Alzheimer's disease
+GSM1424062	PFC_283	disease status: Alzheimer's disease
+GSM1424063	PFC_284	disease status: Alzheimer's disease
+GSM1424064	PFC_285	disease status: Alzheimer's disease
+GSM1424065	PFC_286	disease status: Alzheimer's disease
+GSM1424066	PFC_287	disease status: Alzheimer's disease
+GSM1424067	PFC_288	disease status: Alzheimer's disease
+GSM1424068	PFC_289	disease status: Alzheimer's disease
+GSM1424069	PFC_290	disease status: Alzheimer's disease
+GSM1424070	PFC_291	disease status: Alzheimer's disease
+GSM1424071	PFC_292	disease status: Alzheimer's disease
+GSM1424072	PFC_293	disease status: Alzheimer's disease
+GSM1424073	PFC_294	disease status: Alzheimer's disease
+GSM1424074	PFC_295	disease status: Alzheimer's disease
+GSM1424075	PFC_296	disease status: Alzheimer's disease
+GSM1424076	PFC_297	disease status: Alzheimer's disease
+GSM1424077	PFC_298	disease status: Alzheimer's disease
+GSM1424078	PFC_299	disease status: Alzheimer's disease
+GSM1424079	PFC_300	disease status: Alzheimer's disease
+GSM1424080	PFC_301	disease status: Alzheimer's disease
+GSM1424081	PFC_302	disease status: Alzheimer's disease
+GSM1424082	PFC_303	disease status: Alzheimer's disease
+GSM1424083	PFC_304	disease status: Alzheimer's disease
+GSM1424084	PFC_305	disease status: Alzheimer's disease
+GSM1424085	PFC_306	disease status: Alzheimer's disease
+GSM1424086	PFC_307	disease status: Alzheimer's disease
+GSM1424087	PFC_308	disease status: Alzheimer's disease
+GSM1424088	PFC_309	disease status: Alzheimer's disease
+GSM1424089	PFC_310	disease status: Alzheimer's disease
+GSM1424090	PFC_311	disease status: non-demented
+GSM1424091	PFC_312	disease status: non-demented
+GSM1424092	PFC_313	disease status: non-demented
+GSM1424093	PFC_314	disease status: non-demented
+GSM1424094	PFC_315	disease status: non-demented
+GSM1424095	PFC_316	disease status: non-demented
+GSM1424096	PFC_317	disease status: non-demented
+GSM1424097	PFC_318	disease status: non-demented
+GSM1424098	PFC_319	disease status: non-demented
+GSM1424099	PFC_320	disease status: non-demented
+GSM1424100	PFC_321	disease status: non-demented
+GSM1424101	PFC_322	disease status: non-demented
+GSM1424102	PFC_323	disease status: non-demented
+GSM1424103	PFC_324	disease status: non-demented
+GSM1424104	PFC_325	disease status: non-demented
+GSM1424105	PFC_326	disease status: non-demented
+GSM1424106	PFC_327	disease status: non-demented
+GSM1424107	PFC_328	disease status: non-demented
+GSM1424108	PFC_329	disease status: non-demented
+GSM1424109	PFC_330	disease status: non-demented
+GSM1424110	PFC_331	disease status: non-demented
+GSM1424111	PFC_332	disease status: non-demented
+GSM1424112	PFC_333	disease status: non-demented
+GSM1424113	PFC_334	disease status: non-demented
+GSM1424114	PFC_335	disease status: non-demented
+GSM1424115	PFC_336	disease status: non-demented
+GSM1424116	PFC_337	disease status: non-demented
+GSM1424117	PFC_338	disease status: non-demented
+GSM1424118	PFC_339	disease status: non-demented
+GSM1424119	PFC_340	disease status: non-demented
+GSM1424120	PFC_341	disease status: non-demented
+GSM1424121	PFC_342	disease status: non-demented
+GSM1424122	PFC_343	disease status: non-demented
+GSM1424123	PFC_344	disease status: non-demented
+GSM1424124	PFC_345	disease status: non-demented
+GSM1424125	PFC_346	disease status: non-demented
+GSM1424126	PFC_347	disease status: non-demented
+GSM1424127	PFC_348	disease status: non-demented
+GSM1424128	PFC_349	disease status: non-demented
+GSM1424129	PFC_350	disease status: non-demented
+GSM1424130	PFC_351	disease status: non-demented
+GSM1424131	PFC_352	disease status: non-demented
+GSM1424132	PFC_353	disease status: non-demented
+GSM1424133	PFC_354	disease status: non-demented
+GSM1424134	PFC_355	disease status: non-demented
+GSM1424135	PFC_356	disease status: non-demented
+GSM1424136	PFC_357	disease status: non-demented
+GSM1424137	PFC_358	disease status: non-demented
+GSM1424138	PFC_359	disease status: non-demented
+GSM1424139	PFC_360	disease status: non-demented
+GSM1424140	PFC_361	disease status: non-demented
+GSM1424141	PFC_362	disease status: non-demented
+GSM1424142	PFC_363	disease status: non-demented
+GSM1424143	PFC_364	disease status: non-demented
+GSM1424144	PFC_365	disease status: non-demented
+GSM1424145	PFC_366	disease status: non-demented
+GSM1424146	PFC_367	disease status: non-demented
+GSM1424147	PFC_368	disease status: non-demented
+GSM1424148	PFC_369	disease status: non-demented
+GSM1424149	PFC_370	disease status: non-demented
+GSM1424150	PFC_371	disease status: non-demented
+GSM1424151	PFC_372	disease status: non-demented
+GSM1424152	PFC_373	disease status: non-demented
+GSM1424153	PFC_374	disease status: non-demented
+GSM1424154	PFC_375	disease status: non-demented
+GSM1424155	PFC_376	disease status: non-demented
+GSM1424156	PFC_377	disease status: non-demented
+GSM1424157	PFC_378	disease status: non-demented
+GSM1424158	PFC_379	disease status: non-demented
+GSM1424159	PFC_380	disease status: non-demented
+GSM1424160	PFC_381	disease status: non-demented
+GSM1424161	PFC_382	disease status: non-demented
+GSM1424162	PFC_383	disease status: non-demented
+GSM1424163	PFC_384	disease status: non-demented
+GSM1424164	PFC_385	disease status: non-demented
+GSM1424165	PFC_386	disease status: non-demented
+GSM1424166	PFC_387	disease status: non-demented
+GSM1424167	PFC_388	disease status: non-demented
+GSM1424168	PFC_389	disease status: non-demented
+GSM1424169	PFC_390	disease status: non-demented
+GSM1424170	PFC_391	disease status: non-demented
+GSM1424171	PFC_392	disease status: non-demented
+GSM1424172	PFC_393	disease status: non-demented
+GSM1424173	PFC_394	disease status: non-demented
+GSM1424174	PFC_395	disease status: non-demented
+GSM1424175	PFC_396	disease status: non-demented
+GSM1424176	PFC_397	disease status: non-demented
+GSM1424177	PFC_398	disease status: non-demented
+GSM1424178	PFC_399	disease status: non-demented
+GSM1424179	PFC_400	disease status: non-demented
+GSM1424180	PFC_401	disease status: non-demented
+GSM1424181	PFC_402	disease status: non-demented
+GSM1424182	PFC_403	disease status: non-demented
+GSM1424183	PFC_404	disease status: non-demented
+GSM1424184	PFC_405	disease status: non-demented
+GSM1424185	PFC_406	disease status: non-demented
+GSM1424186	PFC_407	disease status: non-demented
+GSM1424187	PFC_408	disease status: non-demented
+GSM1424188	PFC_409	disease status: non-demented
+GSM1424189	PFC_410	disease status: non-demented
+GSM1424190	PFC_411	disease status: non-demented
+GSM1424191	PFC_412	disease status: non-demented
+GSM1424192	PFC_413	disease status: non-demented
+GSM1424193	PFC_414	disease status: non-demented
+GSM1424194	PFC_415	disease status: non-demented
+GSM1424195	PFC_416	disease status: non-demented
+GSM1424196	PFC_417	disease status: non-demented
+GSM1424197	PFC_418	disease status: non-demented
+GSM1424198	PFC_419	disease status: non-demented
+GSM1424199	PFC_420	disease status: non-demented
+GSM1424200	PFC_421	disease status: non-demented
+GSM1424201	PFC_422	disease status: non-demented
+GSM1424202	PFC_423	disease status: non-demented
+GSM1424203	PFC_424	disease status: non-demented
+GSM1424204	PFC_425	disease status: non-demented
+GSM1424205	PFC_426	disease status: non-demented
+GSM1424206	PFC_427	disease status: non-demented
+GSM1424207	PFC_428	disease status: non-demented
+GSM1424208	PFC_429	disease status: non-demented
+GSM1424209	PFC_430	disease status: non-demented
+GSM1424210	PFC_431	disease status: non-demented
+GSM1424211	PFC_432	disease status: non-demented
+GSM1424212	PFC_433	disease status: non-demented
+GSM1424213	PFC_434	disease status: non-demented
+GSM1424214	PFC_435	disease status: non-demented
+GSM1424215	PFC_436	disease status: non-demented
+GSM1424216	PFC_437	disease status: non-demented
+GSM1424217	PFC_438	disease status: non-demented
+GSM1424218	PFC_439	disease status: non-demented
+GSM1424219	PFC_440	disease status: non-demented
+GSM1424220	PFC_441	disease status: non-demented
+GSM1424221	PFC_442	disease status: non-demented
+GSM1424222	PFC_443	disease status: non-demented
+GSM1424223	PFC_444	disease status: non-demented
+GSM1424224	PFC_445	disease status: non-demented
+GSM1424225	PFC_446	disease status: non-demented
+GSM1424226	PFC_447	disease status: non-demented
+GSM1424227	PFC_448	disease status: non-demented
+GSM1424228	PFC_449	disease status: non-demented
+GSM1424229	PFC_450	disease status: non-demented
+GSM1424230	PFC_451	disease status: non-demented
+GSM1424231	PFC_452	disease status: non-demented
+GSM1424232	PFC_453	disease status: non-demented
+GSM1424233	PFC_454	disease status: non-demented
+GSM1424234	PFC_455	disease status: non-demented
+GSM1424235	PFC_456	disease status: non-demented
+GSM1424236	PFC_457	disease status: non-demented
+GSM1424237	PFC_458	disease status: non-demented
+GSM1424238	PFC_459	disease status: non-demented
+GSM1424239	PFC_460	disease status: non-demented
+GSM1424240	PFC_461	disease status: non-demented
+GSM1424241	PFC_462	disease status: non-demented
+GSM1424242	PFC_463	disease status: non-demented
+GSM1424243	PFC_464	disease status: non-demented
+GSM1424244	PFC_465	disease status: non-demented
+GSM1424245	PFC_466	disease status: non-demented
+GSM1424246	PFC_467	disease status: non-demented
+GSM1424247	PFC_468	disease status: Huntington's disease
+GSM1424248	PFC_469	disease status: Huntington's disease
+GSM1424249	PFC_470	disease status: Huntington's disease
+GSM1424250	PFC_471	disease status: Huntington's disease
+GSM1424251	PFC_472	disease status: Huntington's disease
+GSM1424252	PFC_473	disease status: Huntington's disease
+GSM1424253	PFC_474	disease status: Huntington's disease
+GSM1424254	PFC_475	disease status: Huntington's disease
+GSM1424255	PFC_476	disease status: Huntington's disease
+GSM1424256	PFC_477	disease status: Huntington's disease
+GSM1424257	PFC_478	disease status: Huntington's disease
+GSM1424258	PFC_479	disease status: Huntington's disease
+GSM1424259	PFC_480	disease status: Huntington's disease
+GSM1424260	PFC_481	disease status: Huntington's disease
+GSM1424261	PFC_482	disease status: Huntington's disease
+GSM1424262	PFC_483	disease status: Huntington's disease
+GSM1424263	PFC_484	disease status: Huntington's disease
+GSM1424264	PFC_485	disease status: Huntington's disease
+GSM1424265	PFC_486	disease status: Huntington's disease
+GSM1424266	PFC_487	disease status: Huntington's disease
+GSM1424267	PFC_488	disease status: Huntington's disease
+GSM1424268	PFC_489	disease status: Huntington's disease
+GSM1424269	PFC_490	disease status: Huntington's disease
+GSM1424270	PFC_491	disease status: Huntington's disease
+GSM1424271	PFC_492	disease status: Huntington's disease
+GSM1424272	PFC_493	disease status: Huntington's disease
+GSM1424273	PFC_494	disease status: Huntington's disease
+GSM1424274	PFC_495	disease status: Huntington's disease
+GSM1424275	PFC_496	disease status: Huntington's disease
+GSM1424276	PFC_497	disease status: Huntington's disease
+GSM1424277	PFC_498	disease status: Huntington's disease
+GSM1424278	PFC_499	disease status: Huntington's disease
+GSM1424279	PFC_500	disease status: Huntington's disease
+GSM1424280	PFC_501	disease status: Huntington's disease
+GSM1424281	PFC_502	disease status: Huntington's disease
+GSM1424282	PFC_503	disease status: Huntington's disease
+GSM1424283	PFC_504	disease status: Huntington's disease
+GSM1424284	PFC_505	disease status: Huntington's disease
+GSM1424285	PFC_506	disease status: Huntington's disease
+GSM1424286	PFC_507	disease status: Huntington's disease
+GSM1424287	PFC_508	disease status: Huntington's disease
+GSM1424288	PFC_509	disease status: Huntington's disease
+GSM1424289	PFC_510	disease status: Huntington's disease
+GSM1424290	PFC_511	disease status: Huntington's disease
+GSM1424291	PFC_512	disease status: Huntington's disease
+GSM1424292	PFC_513	disease status: Huntington's disease
+GSM1424293	PFC_514	disease status: Huntington's disease
+GSM1424294	PFC_515	disease status: Huntington's disease
+GSM1424295	PFC_516	disease status: Huntington's disease
+GSM1424296	PFC_517	disease status: Huntington's disease
+GSM1424297	PFC_518	disease status: Huntington's disease
+GSM1424298	PFC_519	disease status: Huntington's disease
+GSM1424299	PFC_520	disease status: Huntington's disease
+GSM1424300	PFC_521	disease status: Huntington's disease
+GSM1424301	PFC_522	disease status: Huntington's disease
+GSM1424302	PFC_523	disease status: Huntington's disease
+GSM1424303	PFC_524	disease status: Huntington's disease
+GSM1424304	PFC_525	disease status: Huntington's disease
+GSM1424305	PFC_526	disease status: Huntington's disease
+GSM1424306	PFC_527	disease status: Huntington's disease
+GSM1424307	PFC_528	disease status: Huntington's disease
+GSM1424308	PFC_529	disease status: Huntington's disease
+GSM1424309	PFC_530	disease status: Huntington's disease
+GSM1424310	PFC_531	disease status: Huntington's disease
+GSM1424311	PFC_532	disease status: Huntington's disease
+GSM1424312	PFC_533	disease status: Huntington's disease
+GSM1424313	PFC_534	disease status: Huntington's disease
+GSM1424314	PFC_535	disease status: Huntington's disease
+GSM1424315	PFC_536	disease status: Huntington's disease
+GSM1424316	PFC_537	disease status: Huntington's disease
+GSM1424317	PFC_538	disease status: Huntington's disease
+GSM1424318	PFC_539	disease status: Huntington's disease
+GSM1424319	PFC_540	disease status: Huntington's disease
+GSM1424320	PFC_541	disease status: Huntington's disease
+GSM1424321	PFC_542	disease status: Huntington's disease
+GSM1424322	PFC_543	disease status: Huntington's disease
+GSM1424323	PFC_544	disease status: Huntington's disease
+GSM1424324	PFC_545	disease status: Huntington's disease
+GSM1424325	PFC_546	disease status: Huntington's disease
+GSM1424326	PFC_547	disease status: Huntington's disease
+GSM1424327	PFC_548	disease status: Huntington's disease
+GSM1424328	PFC_549	disease status: Huntington's disease
+GSM1424329	PFC_550	disease status: Huntington's disease
+GSM1424330	PFC_551	disease status: Huntington's disease
+GSM1424331	PFC_552	disease status: Huntington's disease
+GSM1424332	PFC_553	disease status: Huntington's disease
+GSM1424333	PFC_554	disease status: Huntington's disease
+GSM1424334	PFC_555	disease status: Huntington's disease
+GSM1424335	PFC_556	disease status: Huntington's disease
+GSM1424336	PFC_557	disease status: Huntington's disease
+GSM1424337	PFC_558	disease status: Huntington's disease
+GSM1424338	PFC_559	disease status: Huntington's disease
+GSM1424339	PFC_560	disease status: Huntington's disease
+GSM1424340	PFC_561	disease status: Huntington's disease
+GSM1424341	PFC_562	disease status: Huntington's disease
+GSM1424342	PFC_563	disease status: Huntington's disease
+GSM1424343	PFC_564	disease status: Huntington's disease
+GSM1424344	PFC_565	disease status: Huntington's disease
+GSM1424345	PFC_566	disease status: Huntington's disease
+GSM1424346	PFC_567	disease status: Huntington's disease
+GSM1424347	PFC_568	disease status: Huntington's disease
+GSM1424348	PFC_569	disease status: Huntington's disease
+GSM1424349	PFC_570	disease status: Huntington's disease
+GSM1424350	PFC_571	disease status: Huntington's disease
+GSM1424351	PFC_572	disease status: Huntington's disease
+GSM1424352	PFC_573	disease status: Huntington's disease
+GSM1424353	PFC_574	disease status: Huntington's disease
+GSM1424354	PFC_575	disease status: Huntington's disease
+GSM1424355	PFC_576	disease status: Huntington's disease
+GSM1424356	PFC_577	disease status: Huntington's disease
+GSM1424357	PFC_578	disease status: Huntington's disease
+GSM1424358	PFC_579	disease status: Huntington's disease
+GSM1424359	PFC_580	disease status: Huntington's disease
+GSM1424360	PFC_581	disease status: Huntington's disease
+GSM1424361	PFC_582	disease status: Huntington's disease
+GSM1424362	PFC_583	disease status: Huntington's disease
+GSM1424363	PFC_584	disease status: Huntington's disease
+GSM1424364	PFC_585	disease status: Huntington's disease
+GSM1424365	PFC_586	disease status: Huntington's disease
+GSM1424366	PFC_587	disease status: Huntington's disease
+GSM1424367	PFC_588	disease status: Huntington's disease
+GSM1424368	PFC_589	disease status: Huntington's disease
+GSM1424369	PFC_590	disease status: Huntington's disease
+GSM1424370	PFC_591	disease status: Huntington's disease
+GSM1424371	PFC_592	disease status: Huntington's disease
+GSM1424372	PFC_593	disease status: Huntington's disease
+GSM1424373	PFC_594	disease status: Huntington's disease
+GSM1424374	PFC_595	disease status: Huntington's disease
+GSM1424375	PFC_596	disease status: Huntington's disease
+GSM1424376	PFC_597	disease status: Huntington's disease
+GSM1424377	PFC_598	disease status: Huntington's disease
+GSM1424378	PFC_599	disease status: Huntington's disease
+GSM1424379	PFC_600	disease status: Huntington's disease
+GSM1424380	PFC_601	disease status: Huntington's disease
+GSM1424381	PFC_602	disease status: Huntington's disease
+GSM1424382	PFC_603	disease status: Huntington's disease
+GSM1424383	PFC_604	disease status: Huntington's disease
+GSM1424384	PFC_605	disease status: Huntington's disease
+GSM1424385	PFC_606	disease status: Huntington's disease
+GSM1424386	PFC_607	disease status: Huntington's disease
+GSM1424387	PFC_608	disease status: Huntington's disease
+GSM1424388	PFC_609	disease status: Huntington's disease
+GSM1424389	PFC_610	disease status: Huntington's disease
+GSM1424390	PFC_611	disease status: Huntington's disease
+GSM1424391	PFC_612	disease status: Huntington's disease
+GSM1424392	PFC_613	disease status: Huntington's disease
+GSM1424393	PFC_614	disease status: Huntington's disease
+GSM1424394	PFC_615	disease status: Huntington's disease
+GSM1424395	PFC_616	disease status: Huntington's disease
+GSM1424396	PFC_617	disease status: Huntington's disease
+GSM1424397	PFC_618	disease status: Huntington's disease
+GSM1424398	PFC_619	disease status: Huntington's disease
+GSM1424399	PFC_620	disease status: Huntington's disease
+GSM1424400	PFC_621	disease status: Huntington's disease
+GSM1424401	PFC_622	disease status: Huntington's disease
+GSM1424402	PFC_623	disease status: Huntington's disease
+GSM1424403	PFC_624	disease status: Huntington's disease

@@ -1,0 +1,2 @@
+gene_set	p53_genes_tested_in_both	mean_log2FC_AD	fraction_up_AD	wilcoxon_p_AD	mean_log2FC_cancer	fraction_up_cancer	wilcoxon_p_cancer	opposite_direction	fraction_opposite	genomewide_fraction_opposite	opposite_vs_genomewide_p
+p53 Pathway	167	0.1890056512217548	0.7125748502994012	1.541887925077312e-08	0.010307570220485526	0.5389221556886228	0.341707987274521	77	0.46107784431137727	0.4730873786407767	0.8162480190453347
